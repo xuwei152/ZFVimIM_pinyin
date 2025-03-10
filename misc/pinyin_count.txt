@@ -833,7 +833,7 @@ shoujiduan 11
 shouquan 2
 shouxian 1
 shouye 20
-shu 10 1
+shu 11 1
 shuaxin 2
 shuchu 11
 shui 1
