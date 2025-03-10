@@ -54,7 +54,7 @@ bihua 2
 bijiao 1
 bili 2
 bimian 2
-bing 31
+bing 32
 bingbu 1
 bingqie 10
 biran 5
@@ -276,6 +276,7 @@ duqu 6
 e 5
 er 1 2
 erji 10
+erjinzhi 1
 ershi 3
 erwei 1
 erweima 44
@@ -488,6 +489,7 @@ jiegou 1
 jieguo 1
 jiejue 5
 jiekou 36
+jiema 1
 jiemian 6
 jiequ 1
 jieri 1
@@ -606,7 +608,7 @@ ling 2
 linshi 4
 liru 47
 lishi 1 1
-liu 8 1 1
+liu 9 1 1
 liucheng 11
 liulanqi 1
 liuliang 1
@@ -935,7 +937,7 @@ wanquan 3
 wanshan 1
 wanzheng 1
 wawei 1
-wei 160 20
+wei 161 20
 weichi 9
 weikong 23
 weile 1
