@@ -185,7 +185,7 @@ daduan 1
 dagang 1
 dai 8
 daikuan 1
-daima 37
+daima 38
 dajia 2
 dakai 6
 daliang 3
@@ -836,7 +836,7 @@ shu 10 1
 shuaxin 2
 shuchu 11
 shui 1
-shuju 13
+shuju 15
 shujuku 1
 shuliang 9
 shunxu 7
@@ -886,7 +886,7 @@ tiaozheng 22
 tiaozhuan 32
 tice 10
 tidai 2
-tigong 15
+tigong 16
 tihuan 18
 tijiao 1
 ting 1
@@ -934,7 +934,7 @@ wanquan 3
 wanshan 1
 wanzheng 1
 wawei 1
-wei 159 20
+wei 160 20
 weichi 9
 weikong 23
 weile 1
@@ -1206,7 +1206,7 @@ zhouqi 3
 zhu 3 2 1
 zhuan 8
 zhuangtai 75
-zhuanhuan 12
+zhuanhuan 13
 zhuce 1
 zhudong 7
 zhufu 1
