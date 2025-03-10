@@ -178,7 +178,7 @@ cunqu 1
 cunzai 19
 cuowu 7
 cuowuma 1
-d 504
+d 505
 da 12
 dabao 3
 daduan 1
@@ -316,7 +316,7 @@ fou 1
 fouze 15
 fu 4
 fufei 5
-fugai 13
+fugai 14
 fuhe 3
 fumian 1
 fuping 1
@@ -648,7 +648,7 @@ mo 1
 mohu 1
 mokuai 4
 moni 9
-moren 122
+moren 123
 morenzhi 2
 moshi 26
 mouge 3
@@ -769,7 +769,7 @@ rouhe 7
 ru 7
 ruanjian 1
 ruguo 4
-ruhe 17
+ruhe 18
 rukou 10
 ruo 98
 san 8
@@ -798,7 +798,7 @@ shengri 7
 shengxiao 5
 shengyin 2
 shewei 1
-shezhi 39
+shezhi 40
 shi 177 21 19
 shibai 14
 shibie 14
@@ -1197,7 +1197,7 @@ zhiyao 3
 zhiye 1
 zhiyou 10
 zhizhiding 1
-zhong 71
+zhong 72
 zhonggad 1
 zhongtu 1
 zhongwen 1
