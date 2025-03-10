@@ -66,7 +66,7 @@ bofang 95
 bofangqi 10
 bokong 10
 bowan 5
-bu 75
+bu 76
 bubian 4
 buchuan 2
 budao 1
@@ -78,7 +78,7 @@ bujian 1
 buju 3
 buke 2 1
 bukeyong 4
-bushi 2
+bushi 3
 bushu 4
 butian 3
 butong 8
@@ -203,7 +203,7 @@ daoru 2
 daozhi 1
 dapei 1
 daxiao 3
-dayin 15
+dayin 16
 de 3
 dedao 2
 deng 38 2
@@ -570,7 +570,7 @@ kongge 4
 kongjian 5
 kongxian 1
 kongzhi 49
-ku 19
+ku 20
 kuaijie 1
 kuaisu 2
 kuan 1
@@ -669,7 +669,7 @@ nei 15
 neibu 8
 neicun 6
 neihe 1
-neirong 90
+neirong 91
 neiwai 1
 neiwaiwang 1
 neiwang 3
@@ -824,7 +824,7 @@ shixian 19
 shixiang 1
 shixu 1
 shiyi 2
-shiyong 95
+shiyong 96
 shizhong 2
 shou 7
 shouci 3
@@ -1104,7 +1104,7 @@ yiyixia 1
 yiyou 5
 yizhi 7 5
 yo 4
-yong 17 12
+yong 18 12
 yongfa 1
 yonghu 14
 yongyu 19
