@@ -196,7 +196,7 @@ dang 5 4
 dangqian 75
 danshi 1
 danwei 10
-dao 75
+dao 76
 daojishi 12
 daoqi 5
 daoru 2
@@ -272,7 +272,7 @@ duoci 3
 duoge 7
 duojiu 1
 duoshao 2
-duqu 6
+duqu 7
 e 5
 er 1 2
 erji 10
@@ -951,7 +951,7 @@ wen 1
 wenan 1
 wenben 19
 wendang 16
-wenjian 69
+wenjian 70
 wenti 33
 wenwenjian 1
 wenzi 15
