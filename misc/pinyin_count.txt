@@ -299,7 +299,7 @@ faqi 40
 fasong 6
 faxin 1
 faxing 1
-fei 122
+fei 123
 feichang 1
 fenbie 1
 feng 5 1
@@ -444,6 +444,7 @@ huigun 1
 huihua 14
 hujiao 16
 hulue 5
+hunan 2
 huo 66
 huodong 1
 huoqu 26
@@ -633,7 +634,7 @@ meici 7
 meifa 1
 meige 16 5
 meiti 4
-meiyou 25
+meiyou 26
 meizhong 1
 mi 19
 mianban 5
@@ -1152,7 +1153,7 @@ zaici 2
 zaijia 1
 zaixian 1
 zan 1
-zanshi 5
+zanshi 6
 zanting 11
 zanwei 3
 zaocheng 3
@@ -1166,6 +1167,8 @@ zhanwei 1
 zhanyong 4
 zhao 3 1
 zhaodao 2
+zhaopin 1
+zhaosheng 2
 zhe 2
 zhebian 2
 zhege 2
